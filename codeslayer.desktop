@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=codeslayer
+Comment=A source code editor that boasts a clean interface but powerful features.
+Exec=codeslayer
+Icon=codeslayer
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=GTK;Development;
+MimeType=text/x-perl;text/x-php;text/x-php-source;
